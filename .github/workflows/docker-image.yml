@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: sukawaiiine@outlook.com/KKK123
+          tags: sukawaiine@outlook.com/sukawaiiine
